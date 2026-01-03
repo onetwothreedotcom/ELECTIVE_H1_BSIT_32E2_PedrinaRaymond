@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.14.36616.10 d17.14
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ELECTIVE_H1_BSIT_32E2_RAYMOND_PEDRINA", "ELECTIVE_H1_BSIT_32E2_RAYMOND_PEDRINA\ELECTIVE_H1_BSIT_32E2_RAYMOND_PEDRINA.csproj", "{07431562-734E-4B8B-90D8-C5E25DD951EA}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{07431562-734E-4B8B-90D8-C5E25DD951EA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{07431562-734E-4B8B-90D8-C5E25DD951EA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{07431562-734E-4B8B-90D8-C5E25DD951EA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{07431562-734E-4B8B-90D8-C5E25DD951EA}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {DA677011-491B-4A04-BFCC-E86E69CD7C23}
+	EndGlobalSection
+EndGlobal

@@ -1,0 +1,6 @@
+@ELECTIVE_H1_BSIT_32E2_RAYMOND_PEDRINA_HostAddress = http://localhost:5058
+
+GET {{ELECTIVE_H1_BSIT_32E2_RAYMOND_PEDRINA_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
